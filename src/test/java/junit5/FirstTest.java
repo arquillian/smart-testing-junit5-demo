@@ -13,4 +13,9 @@ public class FirstTest {
         assertEquals(2, 1 + 1);
     }
 
+    @Test
+    void mySecondTest() {
+        assertEquals(2, 1 + 1);
+    }
+
 }
